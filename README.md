@@ -131,3 +131,11 @@ Computational work finished, nothing tested experimentally. No sequence from thi
 shortlist has been synthesised. The next step is wet lab, not more docking, and
 before that read LIMITATIONS, because one entry there changes how much the stage-2
 ranking is worth.
+
+## 🧑‍💻 Author
+
+Developed by: Vu Bao Chau Nguyen, Ph.D.
+
+Keywords: dsDNA screening, molecular docking, AutoDock Vina, IQS (aeruginaldehyde),
+quorum sensing, Pseudomonas aeruginosa, electrochemical biosensor,
+nearest-neighbour thermodynamics.
