@@ -1,0 +1,1170 @@
+MODEL 1
+REMARK VINA RESULT:    -6.658      0.000      0.000
+REMARK INTER + INTRA:          -7.952
+REMARK INTER:                  -7.632
+REMARK INTRA:                  -0.320
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       2.874  -4.404 -39.358  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       4.042  -4.961 -38.798  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       2.219  -5.003 -40.435  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       2.717  -6.182 -40.984  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       4.523  -6.153 -39.372  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       3.867  -6.756 -40.453  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       4.691  -2.989 -37.472  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       4.710  -4.299 -37.656  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       5.394  -2.630 -36.327  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       5.946  -3.696 -35.645  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       5.581  -5.162 -36.446  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       5.519  -1.240 -35.907  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       4.752  -0.679 -35.131  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.300  -3.246 -38.895  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.356  -2.568 -39.603  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.495      5.676      7.457
+REMARK INTER + INTRA:          -7.764
+REMARK INTER:                  -7.391
+REMARK INTRA:                  -0.373
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       5.846  -0.235 -34.706  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       6.679  -0.137 -33.573  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       6.022  -1.237 -35.662  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       7.042  -2.172 -35.510  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       7.702  -1.096 -33.445  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       7.881  -2.102 -34.402  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       5.278   1.209 -32.060  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       6.463   0.938 -32.580  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       5.353   2.264 -31.155  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       6.622   2.786 -31.001  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       7.731   1.949 -31.998  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       4.177   2.753 -30.446  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       3.144   3.124 -30.993  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       4.812   0.633 -34.954  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       4.820   1.329 -34.261  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.474     21.093     22.970
+REMARK INTER + INTRA:          -7.741
+REMARK INTER:                  -7.377
+REMARK INTRA:                  -0.364
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -5.341   0.375 -16.722  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -6.196   0.578 -17.824  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -5.559  -0.654 -15.804  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -6.645  -1.510 -15.964  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -7.286  -0.303 -17.962  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -7.507  -1.335 -17.042  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -4.741   1.907 -19.302  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -5.934   1.678 -18.778  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -4.770   2.998 -20.165  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -6.011   3.592 -20.283  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -7.152   2.776 -19.305  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -3.577   3.452 -20.869  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -3.499   3.581 -22.086  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -4.243   1.160 -16.470  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -3.713   1.223 -17.294  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.438     10.676     14.135
+REMARK INTER + INTRA:          -7.699
+REMARK INTER:                  -7.336
+REMARK INTRA:                  -0.363
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       1.940   4.946 -26.805  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       2.394   5.729 -27.886  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       1.011   5.434 -25.885  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       0.510   6.725 -26.020  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       1.870   7.030 -27.999  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       0.938   7.523 -27.077  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       3.266   3.976 -29.380  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       3.379   5.178 -28.842  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       4.324   3.706 -30.242  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       5.242   4.732 -30.347  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       4.777   6.046 -29.356  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       4.427   2.442 -30.960  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       4.416   2.337 -32.182  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.369   3.662 -26.577  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.248   3.144 -27.403  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.404      7.930     10.006
+REMARK INTER + INTRA:          -7.660
+REMARK INTER:                  -7.340
+REMARK INTRA:                  -0.320
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -3.346  -4.184 -46.107  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -3.512  -5.457 -45.524  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -4.133  -3.761 -47.180  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -5.110  -4.603 -47.702  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -4.507  -6.288 -46.071  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -5.298  -5.866 -47.148  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -1.419  -5.446 -44.226  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -2.660  -5.872 -44.388  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -0.845  -5.988 -43.080  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -1.679  -6.835 -42.377  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -3.196  -6.953 -43.158  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       0.521  -5.671 -42.682  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       0.828  -4.743 -41.942  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.414  -3.275 -45.672  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -2.283  -3.404 -44.708  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.338     18.375     20.657
+REMARK INTER + INTRA:          -7.584
+REMARK INTER:                  -7.219
+REMARK INTRA:                  -0.365
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -4.094   3.343 -20.005  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -4.854   3.978 -21.008  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -4.686   2.513 -19.052  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -6.060   2.295 -19.075  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -6.242   3.741 -21.009  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -6.838   2.908 -20.053  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -3.242   4.424 -22.816  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -4.193   4.851 -22.003  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -2.793   5.445 -23.649  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -3.426   6.656 -23.449  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -4.593   6.515 -22.207  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -1.744   5.225 -24.637  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -0.569   5.009 -24.362  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.734   3.489 -19.890  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -2.362   2.651 -19.537  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.204     10.230     12.418
+REMARK INTER + INTRA:          -7.431
+REMARK INTER:                  -7.068
+REMARK INTRA:                  -0.363
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       4.246   3.173 -30.951  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       4.941   3.814 -29.906  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       4.911   2.433 -31.930  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       6.297   2.314 -31.890  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       6.343   3.678 -29.890  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       7.013   2.935 -30.871  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       3.124   4.131 -28.274  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       4.203   4.590 -28.886  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       2.627   5.058 -27.364  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       3.353   6.231 -27.298  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       4.671   6.171 -28.387  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       1.440   4.787 -26.562  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       0.434   5.489 -26.556  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.880   3.225 -31.085  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.669   3.393 -32.029  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.101      1.910      5.172
+REMARK INTER + INTRA:          -7.313
+REMARK INTER:                  -6.947
+REMARK INTRA:                  -0.366
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       4.989  -3.506 -36.332  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       5.522  -4.054 -37.516  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       5.797  -2.859 -35.395  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       7.166  -2.743 -35.618  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       6.909  -3.922 -37.717  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       7.722  -3.273 -36.778  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       3.547  -4.169 -38.984  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       4.636  -4.733 -38.487  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       2.898  -5.022 -39.872  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       3.519  -6.244 -40.038  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       4.929  -6.327 -39.073  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       1.671  -4.630 -40.554  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       1.550  -4.555 -41.772  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       3.655  -3.565 -36.012  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       3.497  -2.981 -35.239  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.101     23.595     24.483
+REMARK INTER + INTRA:          -7.313
+REMARK INTER:                  -6.973
+REMARK INTRA:                  -0.340
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -5.392   1.173 -17.203  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -6.498   0.299 -17.166  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -5.387   2.316 -18.003  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -6.492   2.618 -18.793  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -7.603   0.629 -17.975  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -7.600   1.776 -18.779  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -5.372  -1.611 -16.095  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -6.469  -0.903 -16.306  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -5.621  -2.688 -15.250  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -6.931  -2.781 -14.824  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -7.860  -1.508 -15.488  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -4.569  -3.621 -14.864  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -3.886  -3.513 -13.852  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -4.252   0.970 -16.465  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -4.311   1.515 -15.650  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -6.096      9.527     11.733
+REMARK INTER + INTRA:          -7.307
+REMARK INTER:                  -6.940
+REMARK INTRA:                  -0.367
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -4.077  -3.423 -47.419  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -4.817  -4.085 -46.418  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -4.688  -2.565 -48.336  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -6.061  -2.345 -48.276  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -6.204  -3.844 -46.380  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -6.818  -2.984 -47.299  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -3.147  -4.592 -44.680  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -4.137  -4.987 -45.463  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -2.688  -5.634 -43.881  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -3.353  -6.829 -44.075  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -4.563  -6.645 -45.269  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -1.598  -5.451 -42.931  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -0.416  -5.354 -43.244  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.720  -3.568 -47.568  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -2.310  -2.676 -47.545  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:    -6.091      3.855      6.522
+REMARK INTER + INTRA:          -7.301
+REMARK INTER:                  -6.952
+REMARK INTRA:                  -0.349
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       2.785  -4.709 -40.140  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       2.318  -6.039 -40.135  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       3.853  -4.304 -39.337  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       4.484  -5.222 -38.503  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       2.975  -6.946 -39.282  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       4.046  -6.542 -38.476  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       0.129  -5.662 -41.198  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       1.184  -6.433 -40.999  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -0.788  -6.270 -42.050  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -0.404  -7.520 -42.494  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       1.119  -7.938 -41.837  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -2.037  -5.619 -42.425  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -2.142  -4.785 -43.318  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.236  -3.724 -40.922  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       1.259  -3.814 -40.892  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:    -6.089     16.784     18.683
+REMARK INTER + INTRA:          -7.299
+REMARK INTER:                  -6.925
+REMARK INTRA:                  -0.374
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       0.226   5.629 -25.169  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -0.523   6.655 -24.558  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       1.400   5.899 -25.874  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       1.859   7.208 -25.988  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -0.036   7.970 -24.688  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       1.142   8.243 -25.396  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -1.822   5.397 -22.886  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -1.763   6.333 -23.818  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -3.102   5.298 -22.350  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -4.013   6.181 -22.896  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -3.259   7.143 -24.092  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -3.424   4.336 -21.303  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -3.150   3.142 -21.353  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -0.135   4.306 -25.118  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       0.200   3.863 -25.928  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:    -6.003     12.055     14.107
+REMARK INTER + INTRA:          -7.201
+REMARK INTER:                  -6.860
+REMARK INTRA:                  -0.341
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -3.749  -4.034 -46.919  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -5.158  -4.047 -46.944  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -3.021  -4.911 -46.113  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -3.686  -5.828 -45.305  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -5.805  -4.986 -46.118  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -5.077  -5.867 -45.308  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -5.459  -1.887 -48.088  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -5.897  -3.104 -47.811  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -6.343  -1.210 -48.923  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -7.460  -1.941 -49.275  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -7.404  -3.491 -48.552  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -6.084   0.152 -49.372  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -5.022   0.532 -49.855  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.994  -3.171 -47.675  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -3.047  -3.454 -48.613  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:    -5.992     18.000     19.921
+REMARK INTER + INTRA:          -7.188
+REMARK INTER:                  -6.827
+REMARK INTRA:                  -0.361
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -1.875   5.554 -24.318  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -2.273   6.154 -23.106  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -0.988   6.185 -25.193  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -0.474   7.440 -24.878  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -1.737   7.423 -22.812  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -0.848   8.058 -23.688  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -3.093   4.178 -21.886  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -3.214   5.456 -22.203  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -4.107   3.774 -21.024  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -5.000   4.774 -20.693  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -4.565   6.234 -21.470  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -4.193   2.406 -20.528  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -4.562   2.101 -19.398  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.320   4.322 -24.727  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -2.189   4.252 -25.697  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:    -5.971      6.271     10.204
+REMARK INTER + INTRA:          -7.164
+REMARK INTER:                  -6.859
+REMARK INTRA:                  -0.305
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       4.488   3.082 -31.024  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       5.733   3.357 -31.626  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       3.899   3.969 -30.122  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       4.542   5.159 -29.794  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       6.361   4.568 -31.277  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       5.772   5.459 -30.372  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       5.604   1.568 -33.314  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       6.328   2.394 -32.578  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       6.410   0.772 -34.122  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       7.762   1.014 -33.984  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       8.027   2.249 -32.830  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       5.846  -0.222 -35.027  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       4.682  -0.607 -34.993  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       3.770   1.940 -31.275  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       3.904   1.320 -30.526  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:    -5.939     20.535     22.085
+REMARK INTER + INTRA:          -7.127
+REMARK INTER:                  -6.783
+REMARK INTRA:                  -0.344
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -3.445   4.318 -21.149  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -4.700   4.562 -20.556  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -2.796   5.288 -21.916  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -3.388   6.532 -22.112  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -5.276   5.829 -20.769  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -4.626   6.803 -21.539  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -4.693   2.691 -18.954  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -5.359   3.512 -19.749  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -5.550   1.802 -18.313  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -6.882   1.967 -18.639  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -7.061   3.248 -19.759  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -5.056   0.795 -17.382  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -5.038  -0.410 -17.613  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -2.773   3.128 -21.021  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -1.821   3.324 -20.885  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:    -5.882      2.751      5.596
+REMARK INTER + INTRA:          -7.062
+REMARK INTER:                  -6.701
+REMARK INTRA:                  -0.361
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       3.695  -4.224 -38.624  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       3.829  -5.520 -39.162  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       4.748  -3.595 -37.956  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       5.967  -4.248 -37.807  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       5.073  -6.157 -38.998  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       6.130  -5.528 -38.328  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       1.886  -5.492 -40.676  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       2.692  -6.155 -39.864  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       0.903  -6.325 -41.203  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       0.983  -7.635 -40.774  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       2.301  -7.825 -39.700  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -0.109  -5.829 -42.126  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       0.134  -5.161 -43.126  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.538  -3.490 -38.713  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.660  -2.804 -39.405  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:    -5.854     15.549     18.366
+REMARK INTER + INTRA:          -7.030
+REMARK INTER:                  -6.669
+REMARK INTRA:                  -0.362
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -1.983   5.799 -22.862  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -2.102   6.530 -24.062  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -3.017   5.753 -21.926  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -4.204   6.440 -22.165  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -3.312   7.215 -24.278  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -4.352   7.170 -23.340  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -0.489   5.464 -25.588  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -0.985   6.557 -25.032  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       0.552   5.770 -26.460  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       0.834   7.118 -26.553  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -0.214   8.012 -25.538  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       1.264   4.734 -27.198  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       2.454   4.474 -27.050  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -0.858   5.087 -22.527  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -0.626   4.503 -23.281  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:    -5.847      4.172      5.620
+REMARK INTER + INTRA:          -7.022
+REMARK INTER:                  -6.684
+REMARK INTRA:                  -0.338
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       5.510  -2.358 -35.176  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       6.742  -1.696 -35.000  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       5.372  -3.425 -36.066  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       6.466  -3.860 -36.807  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       7.833  -2.156 -35.762  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       7.696  -3.227 -36.655  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       5.860   0.274 -33.812  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       6.852  -0.569 -34.048  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       6.228   1.237 -32.878  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       7.521   1.106 -32.410  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       8.283  -0.235 -33.148  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       5.306   2.282 -32.449  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       4.275   2.078 -31.817  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       4.368  -2.011 -34.497  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       3.613  -2.498 -34.893  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:    -5.826      1.897      5.917
+REMARK INTER + INTRA:          -6.998
+REMARK INTER:                  -6.678
+REMARK INTRA:                  -0.320
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       5.659  -1.508 -34.742  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       6.442  -2.465 -35.419  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       6.158  -0.788 -33.655  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       7.459  -1.008 -33.213  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       7.754  -2.667 -34.951  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       8.257  -1.946 -33.861  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       4.595  -3.498 -36.679  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       5.880  -3.209 -36.568  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       4.335  -4.202 -37.851  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       5.452  -4.439 -38.627  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       6.841  -3.775 -37.881  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       2.990  -4.638 -38.203  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       2.648  -4.991 -39.327  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       4.365  -1.213 -35.094  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       4.366  -0.369 -35.596  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 21
+REMARK VINA RESULT:    -5.780      3.813      7.728
+REMARK INTER + INTRA:          -6.944
+REMARK INTER:                  -6.614
+REMARK INTRA:                  -0.331
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       6.112   0.378 -32.531  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       6.975   0.149 -33.622  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       6.201   1.536 -31.756  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       7.160   2.500 -32.052  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       7.935   1.141 -33.900  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       8.026   2.304 -33.124  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       5.702  -1.715 -34.608  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       6.852  -1.089 -34.422  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       5.866  -2.850 -35.396  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       7.167  -3.070 -35.805  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       8.193  -1.845 -35.196  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       4.744  -3.712 -35.744  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       4.074  -3.598 -36.765  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       5.133  -0.506 -32.152  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       4.509  -0.617 -32.902  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 22
+REMARK VINA RESULT:    -5.692      5.324      7.974
+REMARK INTER + INTRA:          -6.843
+REMARK INTER:                  -6.681
+REMARK INTRA:                  -0.163
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       0.970  -5.457 -40.925  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       0.580  -6.738 -41.365  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       1.724  -5.278 -39.764  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       2.109  -6.381 -39.007  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       0.983  -7.836 -40.581  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       1.740  -7.658 -39.415  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -0.708  -5.862 -43.272  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -0.219  -6.890 -42.600  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -1.419  -6.282 -44.392  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -1.456  -7.653 -44.556  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -0.594  -8.422 -43.295  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -2.057  -5.334 -45.297  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -2.564  -4.275 -44.944  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       0.644  -4.303 -41.594  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       1.325  -4.143 -42.283  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 23
+REMARK VINA RESULT:    -5.685     23.852     25.505
+REMARK INTER + INTRA:          -6.836
+REMARK INTER:                  -6.461
+REMARK INTRA:                  -0.375
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -5.663  -0.608 -16.874  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -6.655  -0.661 -15.874  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -5.650   0.399 -17.841  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -6.633   1.384 -17.833  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -7.637   0.347 -15.889  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -7.625   1.359 -16.858  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -5.558  -2.063 -14.171  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -6.637  -1.743 -14.865  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -5.814  -3.112 -13.293  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -7.112  -3.581 -13.337  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -8.020  -2.700 -14.488  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -4.782  -3.648 -12.416  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -3.633  -3.893 -12.768  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -4.649  -1.528 -16.975  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -4.424  -1.638 -17.924  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 24
+REMARK VINA RESULT:    -5.678     20.720     22.627
+REMARK INTER + INTRA:          -6.828
+REMARK INTER:                  -6.474
+REMARK INTRA:                  -0.353
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -5.518   0.723 -17.817  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -6.415   1.565 -18.505  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -5.963  -0.371 -17.072  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -7.324  -0.652 -16.994  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -7.785   1.257 -18.410  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -8.234   0.160 -17.662  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -4.806   2.659 -20.015  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -5.908   2.714 -19.286  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -4.556   3.875 -20.644  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -5.493   4.852 -20.377  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -6.699   4.245 -19.327  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -3.396   4.068 -21.506  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -3.420   3.974 -22.729  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -4.158   0.909 -17.826  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -3.738   0.106 -18.205  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 25
+REMARK VINA RESULT:    -5.646     12.972     15.130
+REMARK INTER + INTRA:          -6.791
+REMARK INTER:                  -6.430
+REMARK INTRA:                  -0.361
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       3.193   4.372 -28.433  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       3.217   5.657 -27.855  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       4.252   3.897 -29.208  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       5.369   4.698 -29.427  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       4.358   6.446 -28.092  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       5.422   5.972 -28.869  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       1.498   5.382 -26.112  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       2.076   6.128 -27.038  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       0.453   6.063 -25.495  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       0.253   7.343 -25.973  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       1.383   7.696 -27.208  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -0.343   5.453 -24.438  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -1.479   5.015 -24.592  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       2.143   3.500 -28.281  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.011   3.340 -27.322  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 26
+REMARK VINA RESULT:    -5.634     14.540     16.875
+REMARK INTER + INTRA:          -6.778
+REMARK INTER:                  -6.408
+REMARK INTRA:                  -0.369
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       1.463   5.342 -27.340  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       1.730   6.359 -26.400  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       2.427   4.921 -28.258  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       3.688   5.509 -28.262  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       3.014   6.936 -26.427  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       3.982   6.515 -27.347  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       0.020   5.926 -24.681  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       0.685   6.780 -25.442  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -0.903   6.583 -23.873  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -0.923   7.954 -24.037  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       0.225   8.425 -25.215  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -1.761   5.859 -22.943  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -1.604   5.844 -21.726  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       0.255   4.696 -27.423  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -0.254   4.886 -26.605  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 27
+REMARK VINA RESULT:    -5.557      2.013      2.614
+REMARK INTER + INTRA:          -6.689
+REMARK INTER:                  -6.332
+REMARK INTRA:                  -0.357
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1       4.472  -4.433 -37.176  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1       5.855  -4.160 -37.173  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1       3.929  -5.464 -37.945  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       4.759  -6.254 -38.735  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1       6.671  -4.974 -37.982  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1       6.128  -6.010 -38.753  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1       5.818  -1.872 -36.262  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1       6.395  -3.059 -36.346  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       6.530  -1.024 -35.420  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       7.659  -1.594 -34.866  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1       7.832  -3.208 -35.406  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       6.096   0.344 -35.162  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       5.278   0.660 -34.305  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1       3.565  -3.717 -36.435  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1       2.678  -4.121 -36.557  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 28
+REMARK VINA RESULT:    -5.527      7.921     10.008
+REMARK INTER + INTRA:          -6.654
+REMARK INTER:                  -6.559
+REMARK INTRA:                  -0.096
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -4.674  -5.497 -45.461  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -3.371  -4.963 -45.384  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -5.663  -4.907 -46.249  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -5.376  -3.761 -46.985  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -3.108  -3.804 -46.138  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -4.099  -3.210 -46.930  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -1.829  -5.043 -43.466  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -2.348  -5.616 -44.539  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -0.890  -5.870 -42.856  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -0.710  -7.083 -43.490  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -1.724  -7.189 -44.863  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -0.176  -5.463 -41.652  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       0.791  -4.709 -41.643  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -5.064  -6.622 -44.778  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -4.670  -6.591 -43.879  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 29
+REMARK VINA RESULT:    -5.517      6.106      7.979
+REMARK INTER + INTRA:          -6.643
+REMARK INTER:                  -6.511
+REMARK INTRA:                  -0.132
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -3.245  -6.583 -43.673  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -1.939  -6.115 -43.922  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -4.269  -6.433 -44.610  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1      -4.013  -5.807 -45.826  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -1.708  -5.487 -45.160  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -2.734  -5.335 -46.102  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -0.360  -5.284 -42.224  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -0.878  -6.292 -42.906  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1       0.617  -5.725 -41.336  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1       0.828  -7.089 -41.360  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -0.206  -7.827 -42.505  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1       1.338  -4.802 -40.469  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1       2.112  -3.939 -40.868  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -3.606  -7.214 -42.508  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -2.791  -7.528 -42.061  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
+MODEL 30
+REMARK VINA RESULT:    -5.397     17.779     19.578
+REMARK INTER + INTRA:          -6.506
+REMARK INTER:                  -6.425
+REMARK INTRA:                  -0.081
+REMARK UNBOUND:                -0.320
+REMARK  Name = template/template.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_4
+REMARK    2  A    between atoms: C_3  and  O_18
+REMARK    3  A    between atoms: C_13  and  C_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     1      -1.084   7.369 -23.600  0.00  0.00    +0.127 A 
+ATOM      2  C   UNK     1      -1.815   6.185 -23.827  0.00  0.00    +0.049 A 
+ATOM      3  C   UNK     1      -0.116   7.817 -24.501  0.00  0.00    +0.046 A 
+ATOM      4  C   UNK     1       0.149   7.090 -25.657  0.00  0.00    +0.004 A 
+ATOM      5  C   UNK     1      -1.528   5.469 -25.004  0.00  0.00    +0.014 A 
+ATOM      6  C   UNK     1      -0.556   5.917 -25.909  0.00  0.00    +0.001 A 
+ENDROOT
+BRANCH   2   8
+ATOM      7  N   UNK     1      -2.727   4.618 -22.160  0.00  0.00    -0.236 NA
+ATOM      8  C   UNK     1      -2.834   5.740 -22.851  0.00  0.00    +0.112 A 
+ATOM      9  C   UNK     1      -3.819   4.439 -21.316  0.00  0.00    +0.111 A 
+ATOM     10  C   UNK     1      -4.757   5.450 -21.383  0.00  0.00    +0.078 A 
+ATOM     11  S   UNK     1      -4.266   6.637 -22.513  0.00  0.00    -0.075 S 
+BRANCH   9  12
+ATOM     12  C   UNK     1      -3.935   3.274 -20.448  0.00  0.00    +0.279 C 
+ATOM     13  O   UNK     1      -4.220   2.146 -20.838  0.00  0.00    -0.294 OA
+ENDBRANCH   9  12
+ENDBRANCH   2   8
+BRANCH   1  14
+ATOM     14  O   UNK     1      -1.265   8.161 -22.494  0.00  0.00    -0.506 OA
+ATOM     15  H   UNK     1      -0.381   8.413 -22.146  0.00  0.00    +0.292 HD
+ENDBRANCH   1  14
+TORSDOF 3
+ENDMDL
