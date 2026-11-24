@@ -1,0 +1,34 @@
+Pipeline check. Pools: 10000 -> 2000 -> 100 docked
+
+1. Structure files map to the ranked sequences
+  [PASS] all 100 PDB files present
+  [PASS] chain A of model (N) is stage-3 rank N  100/100
+  [PASS] chain B is the reverse complement of chain A  all 100 duplexes correct
+  [PASS] the 100 docked sequences are all different
+
+2. Stored values recompute from the sequence
+     iqs_raw range over the stage-1 pool: 6.600 to 40.100
+  [PASS] stage 2: 6 columns x 2000 rows recompute  max deviation 4.8e-05
+  [PASS] stage 3: 7 columns x 100 rows recompute  max deviation 4.8e-05
+
+3. Vina scores in the pose files match the ranking tables
+  [PASS] pose file readable for all 100 models  100 read
+  [PASS] best pose matches one of the two runs  28-30 poses per file
+  [PASS] both ranking tables cover all 100 models
+  [PASS] archived poses all belong to run A
+
+4. Agreement between the two docking runs
+     affinity spread over 100 candidates : -6.934 to -6.456 kcal/mol (range 0.478)
+     between-run difference              : sd 0.053, largest 0.228 kcal/mol
+     top-20 shared / top-10 shared       : 13 of 20 / 8 of 10
+     best candidate                      : run A model (87), run B model (59)
+
+     The scatter between runs is about the size of the gap between
+     neighbouring candidates, so the order is not reproducible but the
+     top band is. Use the output as a shortlist. See docs/LIMITATIONS.md.
+
+Writing tables
+  results/candidates_master.csv  100 rows
+  results/top20_candidates.csv   20 rows, 13 of them in the top 20 of both runs
+
+All checks passed.

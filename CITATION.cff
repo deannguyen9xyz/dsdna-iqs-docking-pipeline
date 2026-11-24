@@ -1,0 +1,29 @@
+# Fill in the author block before using this. Delete the orcid line if you
+# don't want one. Nothing else needs changing.
+cff-version: 1.2.0
+message: "If you use this screening pipeline or its candidate list, please cite it as below."
+title: "dsDNA candidate screening for IQS binding"
+abstract: >-
+  A four-stage in-silico screening pipeline that reduces 10,000 randomly
+  generated DNA sequences to a shortlist of 20 double-stranded candidates for
+  binding IQS (2-(2-hydroxyphenyl)-thiazole-4-carbaldehyde), a quorum-sensing
+  signal molecule of Pseudomonas aeruginosa, intended for a dsDNA-based
+  electrochemical sensor. Combines sequence filtering, heuristic scoring,
+  nearest-neighbour duplex thermodynamics and AutoDock Vina docking.
+type: software
+authors:
+  - family-names: "<ADD YOUR SURNAME>"
+    given-names: "<ADD YOUR GIVEN NAMES>"
+    orcid: "https://orcid.org/<ADD YOUR ORCID OR DELETE THIS LINE>"
+license: MIT
+keywords:
+  - molecular docking
+  - AutoDock Vina
+  - dsDNA
+  - quorum sensing
+  - Pseudomonas aeruginosa
+  - IQS
+  - aeruginaldehyde
+  - biosensor
+  - virtual screening
+date-released: 2026-11-24

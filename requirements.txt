@@ -1,0 +1,13 @@
+# Everything the notebooks import.
+pandas
+numpy
+matplotlib
+jupyter
+
+# scripts/verify_pipeline.py needs nothing beyond the standard library, so the
+# results can be checked without installing anything.
+
+# Not Python packages, install separately (see docs/RERUN.md):
+#   AutoDock Vina 1.2.0  github.com/ccsb-scripps/AutoDock-Vina/releases
+#   Open Babel           'obabel' on PATH, for PDB -> PDBQT
+#   Avogadro             adding hydrogens
