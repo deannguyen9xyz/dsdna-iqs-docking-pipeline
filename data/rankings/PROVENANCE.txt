@@ -1,0 +1,17 @@
+docking_ranking_runA.txt   was  docking_results.txt
+docking_ranking_runB.txt   was  docking_results1.txt
+
+Two independent Vina runs over the same 100 receptors. The original filenames
+don't record which came first: the re-run procedure was "rename the old
+docking_results.txt, empty the output folder, run again", so either file could be
+the earlier one. Hence A and B rather than 1 and 2.
+
+What the files themselves establish: the archived poses in ../output/ belong to
+run A. For all 100 models the best pose equals the run A score exactly and differs
+from run B (verify_pipeline.py, check 3). Since re-running emptied the output
+folder, the surviving poses are from whichever run was last, so run A was later.
+
+Both runs used identical settings: AutoDock Vina 1.2.0, rigid receptor, flexible
+ligand, 40 x 40 x 40 A box on the DNA centroid, exhaustiveness 32, num_modes 30,
+12 CPU threads. Vina's search is stochastic and no seed was set, which is why the
+two runs differ.
